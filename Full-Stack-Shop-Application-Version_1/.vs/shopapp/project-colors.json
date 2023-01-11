@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "83d9ea13-2070-406c-a645-36c6d7e25eb5": {
+      "ProjectGuid": "83d9ea13-2070-406c-a645-36c6d7e25eb5",
+      "DisplayName": "shopapp.webapi",
+      "ColorIndex": 0
+    },
+    "844fdb0c-a6d9-4fba-b023-153f1b6ab940": {
+      "ProjectGuid": "844fdb0c-a6d9-4fba-b023-153f1b6ab940",
+      "DisplayName": "shopapp.webui",
+      "ColorIndex": 1
+    },
+    "00f53eba-d127-43fb-94ea-a7ac3ecdd54d": {
+      "ProjectGuid": "00f53eba-d127-43fb-94ea-a7ac3ecdd54d",
+      "DisplayName": "shopapp.data",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
